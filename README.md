@@ -13,6 +13,7 @@ Tecnologias:
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
 ***
@@ -27,22 +28,22 @@ Tecnologias:
 ## 📌 &nbsp;Principais Repositórios
 
 <table>
-	<thead>
-		<tr>
-			<th colspan="2" width="2000">&nbsp;</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/guitotti/node-chatgpt-api">
-      <img src="./.github/assets/documentation.png" />
-      </a>
-      </td>
-			<td valign="top">
-			<h3>Api do clone do ChatGPT (Node)</h3>
-			<p>Integração com o algoritmo da OpenAI feita através do Node</p>
-			</td>
+  <thead>
+    <tr>
+      <th colspan="2" width="2000">&nbsp;</th>
     </tr>
-	</tbody>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="80"><br />
+	<a href="https://github.com/guitotti/node-chatgpt-api">
+          <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+        </a>
+      </td>
+      <td valign="top">
+	<h3>Api do clone do ChatGPT (Node)</h3>
+	<p>Integração com o algoritmo da OpenAI feita através do Node</p>
+      </td>
+    </tr>
+  </tbody>
 </table>
