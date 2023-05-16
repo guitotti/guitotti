@@ -22,3 +22,27 @@ Tecnologias:
   <a href = "mailto:dev.guilhermetotti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guitotti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+***
+## 📌 &nbsp;Principais Repositórios
+
+<table>
+	<thead>
+		<tr>
+			<th colspan="2" width="2000">&nbsp;</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/guitotti/node-chatgpt-api">
+      <img src="./.github/assets/documentation.png" />
+      </a>
+      </td>
+			<td valign="top">
+			<h3>Api do clone do ChatGPT (Node)</h3>
+			<p>Integração com o algoritmo da OpenAI feita através do Node</p>
+			</td>
+    </tr>
+	</tbody>
+</table>
