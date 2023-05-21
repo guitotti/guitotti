@@ -1,4 +1,4 @@
-### Olá, mundo! 👋 
+### Hello, world! 👋 
 ### Eu sou Guilherme. Seja bem vind@ ao meu perfil do Github. 
 
 - 🔭 Atualmente trabalho como professor de História.
