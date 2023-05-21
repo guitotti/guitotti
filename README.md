@@ -30,7 +30,7 @@ Tecnologias:
 <table>
   <thead>
     <tr>
-      <th colspan="2" width="2000">&nbsp; ## 📌Principais Repositórios</th>
+      ##<th colspan="2" width="2000">&nbsp;📌Principais Repositórios</th>
     </tr>
   </thead>
   <tbody>
