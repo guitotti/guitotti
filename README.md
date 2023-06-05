@@ -4,7 +4,7 @@
 - 🔭 Atualmente trabalho como professor de História.
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 😄 Pronomes: ele/dele
-- ⚡ Meu apelido é Sorriso, e acredito que isso diga bastante sobre minha personalidade rsrs
+- ⚡ Meu apelido é Sorriso
 ***
 Tecnologias:
 <div style="display: inline_block"><br>
