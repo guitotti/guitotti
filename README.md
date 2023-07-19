@@ -1,10 +1,12 @@
 ### Hello, world! 👋 
 ### Eu sou Guilherme. Seja bem vind@ ao meu perfil do Github. 
 
-- 🔭 Atualmente trabalho como professor de História.
+- ⏳ Atualmente trabalho como professor de História.
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 😄 Pronomes: ele/dele
 - ⚡ Meu apelido é Sorriso
+- 🇾🇪 Tricolor paulista
+- 💾 Site Pessoal: (em andamento)
 ***
 Tecnologias:
 <div style="display: inline_block"><br>
