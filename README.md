@@ -47,7 +47,6 @@ Tecnologias:
 	<p>Integração com o algoritmo da OpenAI feita através do Node</p>
       </td>
     </tr>
-	  https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg
      <tr>
       <td align="center" valign="top" width="80"><br />
 	<a href="https://github.com/guitotti/react-todo-list">
@@ -55,8 +54,8 @@ Tecnologias:
         </a>
       </td>
       <td valign="top">
-	<h3>Todo List</h3>
-	<p>Projeto criado para o Desafio 01 do bootcamp Ignite, da Rocketseat. React/Vite/Typescript</p>
+	<h3>Todo List (React/Vite/Typescript)</h3>
+	<p>Projeto criado para o Desafio 01 do bootcamp Ignite, da Rocketseat.</p>
       </td>
     </tr>
   </tbody>
