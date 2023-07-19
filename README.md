@@ -3,8 +3,8 @@
 
 - ⏳ Atualmente trabalho como professor de História.
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas.
-- 😄 Pronomes: ele/dele
-- ⚡ Meu apelido é Sorriso
+- ⚡ Pronomes: ele/dele
+- 😄 Meu apelido é Sorriso
 - 🇾🇪 Tricolor paulista
 - 💾 Site Pessoal: (em andamento)
 ***
