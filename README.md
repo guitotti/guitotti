@@ -56,7 +56,7 @@ Tecnologias:
       </td>
       <td valign="top">
 	<h3>Todo List</h3>
-	<p>Todo list criada com React / Vite / Typescript</p>
+	<p>Projeto criado para o Desafio 01 do bootcamp Ignite, da Rocketseat. React/Vite/Typescript</p>
       </td>
     </tr>
   </tbody>
