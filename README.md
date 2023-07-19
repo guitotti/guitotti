@@ -47,5 +47,17 @@ Tecnologias:
 	<p>Integração com o algoritmo da OpenAI feita através do Node</p>
       </td>
     </tr>
+	  https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg
+     <tr>
+      <td align="center" valign="top" width="80"><br />
+	<a href="https://github.com/guitotti/react-todo-list">
+          <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        </a>
+      </td>
+      <td valign="top">
+	<h3>Todo List</h3>
+	<p>Todo list criada com React / Vite / Typescript</p>
+      </td>
+    </tr>
   </tbody>
 </table>
