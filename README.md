@@ -5,7 +5,7 @@
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas.
 - ⚡ Pronomes: ele/dele
 - 😄 Meu apelido é Sorriso
-- 🇾🇪 Tricolor paulista
+- ⚽ Tricolor paulista
 - 💾 Site Pessoal: (em andamento)
 ***
 Tecnologias:
