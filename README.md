@@ -68,5 +68,16 @@ Tecnologias:
 	<p>Aplicação feita em Java com Spring Boot, durante curso da Rocketseat</p>
       </td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="80"><br />
+	<a href="https://github.com/guitotti/rocketmovies-backend">
+          <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+        </a>
+      </td>
+      <td valign="top">
+	<h3>API do RocketMovies</h3>
+	<p>Aplicação feita em Node.js durante desafio da trilha Explorer da Rocketseat</p>
+      </td>
+    </tr>
   </tbody>
 </table>
