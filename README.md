@@ -8,6 +8,7 @@
 - ⚽ Tricolor paulista
 - 💾 Site Pessoal: (em andamento)
 
+
 <div> 
   <a href="https://www.linkedin.com/in/guitotti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
@@ -24,10 +25,6 @@ Tecnologias:
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
-***
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guitotti)](https://github.com/anuraghazra/github-readme-stats)
- 
 ***
 
 <table>
