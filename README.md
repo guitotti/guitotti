@@ -52,15 +52,15 @@ Tecnologias:
 	<p>Integração com o algoritmo da OpenAI feita através do Node</p>
       </td>
     </tr>
-     <tr>
+    <tr>
       <td align="center" valign="top" width="80"><br />
-	<a href="https://github.com/guitotti/react-todo-list">
+	<a href="https://github.com/guitotti/rocketnotes-frontend">
           <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         </a>
       </td>
       <td valign="top">
-	<h3>Todo List (React/Vite/Typescript)</h3>
-	<p>Projeto criado para o Desafio 01 do bootcamp Ignite, da Rocketseat.</p>
+	<h3>RocketNotes front-end (React)</h3>
+	<p>Aplicação feita em Node.js durante a trilha Explorer da Rocketseat</p>
       </td>
     </tr>
     <tr>
