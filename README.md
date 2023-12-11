@@ -65,17 +65,6 @@ Tecnologias:
     </tr>
     <tr>
       <td align="center" valign="top" width="80"><br />
-	<a href="https://github.com/guitotti/Java-todo-list">
-          <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-        </a>
-      </td>
-      <td valign="top">
-	<h3>Todo-list Java backend</h3>
-	<p>Aplicação feita em Java com Spring Boot, durante curso da Rocketseat</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="80"><br />
 	<a href="https://github.com/guitotti/rocketmovies-backend">
           <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
         </a>
