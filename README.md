@@ -47,7 +47,7 @@ Tecnologias:
         </a>
       </td>
       <td valign="top">
-	<h3>Api do clone do ChatGPT (Node)</h3>
+	<h3>Api do clone do ChatGPT (Node.js)</h3>
 	<p>Integração com o algoritmo da OpenAI feita através do Node</p>
       </td>
     </tr>
@@ -64,13 +64,13 @@ Tecnologias:
     </tr>
     <tr>
       <td align="center" valign="top" width="80"><br />
-	<a href="https://github.com/guitotti/rocketmovies-backend">
+	<a href="https://github.com/guitotti/rocketnotes-backend">
           <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
         </a>
       </td>
       <td valign="top">
-	<h3>API do RocketMovies</h3>
-	<p>Aplicação feita em Node.js durante desafio da trilha Explorer da Rocketseat</p>
+	<h3>API do RocketNotes (Node.js)</h3>
+	<p>Aplicação feita em Node.js durante a trilha Explorer da Rocketseat</p>
       </td>
     </tr>
   </tbody>
