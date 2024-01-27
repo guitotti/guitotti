@@ -4,9 +4,6 @@
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas.
 - ⚡ Pronomes: ele/dele
 - 😄 Meu apelido é Sorriso
-- ⚽ Tricolor paulista
-- 💾 Site Pessoal: (em andamento)
-
 
 <div> 
   <a href="https://www.linkedin.com/in/guitotti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
