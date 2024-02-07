@@ -12,7 +12,9 @@
 ***
 
 <div>
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guitotti&layout=donut&theme=dark"/>
+<a href="https://github.com/guitotti">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guitotti&layout=compact&langs_count=7&theme=cobalt"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guitotti&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </div>
 
 
