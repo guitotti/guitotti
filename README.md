@@ -10,10 +10,9 @@
 ### Hello, world! 👋 
 ### Seja bem vind@ ao meu perfil do Github. 
 
-- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas.
+- 🌱 Estou cursando Ciência da Computação.
 - 💻 Estou focado nos estudos de <strong><i>desenvolvimento back-end</i></strong>.
 - ⚡ Pronomes: <i>ele/dele</i>.
-- 😄 Meu apelido é Sorriso.
 
 ***
 
