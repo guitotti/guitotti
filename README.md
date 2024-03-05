@@ -50,6 +50,17 @@
   <tbody>
     <tr>
       <td align="center" valign="top" width="80"><br />
+	<a href=" https://github.com/guitotti/gym-anywhere">
+          <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+        </a>
+      </td>
+      <td valign="top">
+	<h3>API do GymAnywhere</h3>
+	<p>Aplicação feita em Node.js com TypeScript</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="80"><br />
 	<a href="https://github.com/guitotti/node-chatgpt-api">
           <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
         </a>
