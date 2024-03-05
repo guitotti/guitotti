@@ -1,5 +1,5 @@
 <h1 align="left">Guilherme Totti</h1> 
-<img align="right" height="260em" src="https://github.com/guitotti/guitotti/assets/62620636/eab95ee4-4d55-415d-9528-3c3ade4092a0">
+<img align="right" height="240em" src="https://github.com/guitotti/guitotti/assets/62620636/eab95ee4-4d55-415d-9528-3c3ade4092a0">
 
 <div dsplay="inline-block">
   <a href="https://www.linkedin.com/in/guitotti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
