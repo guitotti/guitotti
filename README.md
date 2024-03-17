@@ -11,7 +11,7 @@
 ### Seja bem vind@ ao meu perfil do Github. 
 
 - 🌱 Estou cursando Ciência da Computação.
-- 💻 Estou focado nos estudos de <strong><i>desenvolvimento back-end</i></strong>.
+- 💻 Estagiário na <a href="https://www.encora.com" target="_blank"><strong>Encora</strong></a>
 - ⚡ Pronomes: <i>ele/dele</i>.
 
 ***
