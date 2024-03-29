@@ -11,7 +11,7 @@
 ### Seja bem vind@ ao meu perfil do Github. 
 
 - 💻 Ciência da Computação.
-- 🌱 Estagiário na <a href="https://www.encora.com" target="_blank"><strong>Encora</strong></a>
+- 🌱 <i>Intern</i> na <a href="https://www.encora.com" target="_blank"><strong>Encora</strong></a>
 - ⚡ Pronomes: <i>ele/dele</i>.
 
 ***
