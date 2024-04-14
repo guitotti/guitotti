@@ -8,7 +8,7 @@
 <br/>
 
 ### Hello, world! 👋 
-### Seja bem vind@ ao meu perfil do Github. 
+### Seja bem vinde ao meu perfil do Github. 
 
 - 💻 Ciência da Computação.
 - 🌱 <i>Intern</i> na <a href="https://www.encora.com" target="_blank"><strong>Encora</strong></a>
