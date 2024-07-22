@@ -8,7 +8,7 @@
 <br/>
 
 ### Hello, world! 👋 
-### Seja bem vinde ao meu perfil do Github. 
+### Não é feitiçaria, é tecnologia ✨ 
 
 - 💻 Ciência da Computação.
 - 🌱 <i>Intern</i> na <a href="https://www.encora.com" target="_blank"><strong>Encora</strong></a>
