@@ -8,8 +8,7 @@
 <br/>
 
 ### Hello, world! 👋 
-- 💻 Ciência da Computação.
-- 🌱 <i>Intern</i> na <a href="https://www.encora.com" target="_blank"><strong>Encora</strong></a>
+- 💻 Ciência da Computação (2/8)
 
 ***
 
