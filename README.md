@@ -3,9 +3,9 @@
 <img align="right" height="180em" src="https://github.com/guitotti/guitotti/assets/62620636/eab95ee4-4d55-415d-9528-3c3ade4092a0">
 <br/>
 
-- 💻 Cursando Ciência da Computação (2/8)
-- 🔭 Estagiário - atualmente trabalhando com React
-- 🌱 Atualmente estou aprendendo React, Java e AWS
+- 💻 Cursando Ciência da Computação (3/8)
+- 🔭 Analista de Desenvolvimento de Sistemas (atualmente trabalhando com React)
+- 🌱 Atualmente estou aprendendo React, Node e AWS
 
 ### Contato
 <div dsplay="inline-block">
@@ -29,6 +29,5 @@
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
