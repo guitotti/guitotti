@@ -4,7 +4,7 @@
 <br/>
 
 - 💻 Cursando Ciência da Computação (3/8)
-- 🔭 Analista de Desenvolvimento de Sistemas (atualmente trabalhando com React)
+- 🛠️ Analista de Desenvolvimento de Sistemas (atualmente trabalhando com React)
 - 🌱 Atualmente estou aprendendo React, Node e AWS
 
 ### Contato
