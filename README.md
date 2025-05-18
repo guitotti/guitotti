@@ -1,5 +1,5 @@
 # Olá, meu nome é Guilherme! 
-## Bem vinda(o) ao meu perfil GitHub 👋
+## Bem-vindos ao meu perfil GitHub 👋
 <img align="right" height="180em" src="https://github.com/guitotti/guitotti/assets/62620636/eab95ee4-4d55-415d-9528-3c3ade4092a0">
 <br/>
 
