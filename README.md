@@ -3,7 +3,7 @@
 <img align="right" height="180em" src="https://github.com/guitotti/guitotti/assets/62620636/eab95ee4-4d55-415d-9528-3c3ade4092a0">
 <br/>
 
-- 💻 Cursando Ciência da Computação (3/8)
+- 💻 Cursando Ciência da Computação (4/8)
 - 🛠️ Analista de Desenvolvimento de Sistemas (atualmente trabalhando com React)
 - 🌱 Estou aprendendo React, Node e AWS
 
