@@ -4,8 +4,9 @@
 <br/>
 
 - 💻 Cursando Ciência da Computação (4/8)
-- 🛠️ Analista de Desenvolvimento de Sistemas (atualmente trabalhando com React)
-- 🌱 Estou aprendendo React, Node e AWS
+- 🛠️ Analista de Desenvolvimento de Sistemas (atualmente trabalhando com React e Node.js)
+- 🌱 Estou aprendendo React, Node.js e AWS
+- 🧩 Certificado AWS Cloud Practitioner
 
 ### Contato
 <div dsplay="inline-block">
