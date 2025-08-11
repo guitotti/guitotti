@@ -6,7 +6,7 @@
 - 💻 Cursando Ciência da Computação (4/8)
 - 🛠️ Analista de Desenvolvimento de Sistemas (atualmente trabalhando com React e Node.js)
 - 🌱 Estou aprendendo React, Node.js e AWS
-- 🧩 Certificado AWS Cloud Practitioner
+- 🧩 Certificado AWS Cloud Practitioner: <a href="https://www.credly.com/badges/5f8915d2-f079-48f2-b664-3ff072a752fc" target="_blank">Credly</a>
 
 ### Contato
 <div dsplay="inline-block">
