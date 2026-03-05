@@ -1,9 +1,7 @@
 # Hi, there! I'm Guilherme! 
-## Welcome to my GitHub profile 👋
-<img align="right" height="180em" src="https://github.com/guitotti/guitotti/assets/62620636/eab95ee4-4d55-415d-9528-3c3ade4092a0">
-<br/>
+## Welcome to my GitHub profile
 
-- 💻 Studying Computer Science (4th semester).
+- 💻 Studying Computer Science (5/8).
 - 🛠️ Software Development Assistant (currently working with React/Next.js and Node.js).
 - 🧩 <a href="https://www.credly.com/badges/5f8915d2-f079-48f2-b664-3ff072a752fc" target="_blank">AWS Cloud Practitioner</a> Certified.
 
@@ -13,13 +11,11 @@
   <a href="mailto:guilherme.totti@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
 
-***
-
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/guitotti">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guitotti&layout=compact&langs_count=7&theme=calm"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guitotti&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
 
 <div style="display: inline_block" align="left"><br>
   <h2>Techs:</h2>
