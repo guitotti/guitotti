@@ -1,7 +1,7 @@
 # Hi, there! I'm Guilherme! 
 ## Welcome to my GitHub profile
 
-- 💻 Studying Computer Science (6/8).
+- 💻 Undergraduate student in CS (6/8).
 - 🛠️ Trainee Software Engineer (working with Next.js / Node.js / AWS).
 - 🧩 <a href="https://www.credly.com/badges/5f8915d2-f079-48f2-b664-3ff072a752fc" target="_blank">AWS Cloud Practitioner</a> Certified.
 
